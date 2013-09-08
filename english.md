@@ -38,3 +38,51 @@ Academic Writing, from paragraph to writing
 +--------+--------------------------+---------+
 
 На след лекцию принести: со 2 страницы по 16 страницу.
+
+
+
+machine
+
+fill the bill удовлетворять требованиям
+
+worthy - "как мы его понимаем"
+
+inspired- вдохновленный
+
+likely вероятно
+
+acording to
+
+to reason - понимать
+
+to emote - выражать эмоции
+
+counless - бесчетный
+
+recent - недавние
+
+predict - предстазывать
+
+prernatural - суперчеловек
+
+distinguish from
+
+suspect - подозревать
+
+rigit - строгое следование
+
+adherence - следовать
+
+instantaous -
+
+coaxes
+
+сайнапс
+
+irreplaceble - незменимый
+
+niche - ниша
+
+foment - превносить
+
+Выучить слова и сделать пересказ по схеме how to render
