@@ -24,7 +24,51 @@ Academic Writing, from paragraph to writing
 
 -   Составить словарь (обязательно)
 
-Выучить слова и сделать пересказ по схеме how to render
+
+machine
+
+fill the bill удовлетворять требованиям
+
+worthy - "как мы его понимаем"
+
+inspired- вдохновленный
+
+likely вероятно
+
+acording to
+
+to reason - понимать
+
+to emote - выражать эмоции
+
+counless - бесчетный
+
+recent - недавние
+
+predict - предстазывать
+
+prernatural - суперчеловек
+
+distinguish from
+
+suspect - подозревать
+
+rigit - строгое следование
+
+adherence - следовать
+
+instantaous -
+
+coaxes
+
+сайнапс
+
+irreplaceble - незменимый
+
+niche - ниша
+
+foment - превносить
+
 
 stand still - остановится
 
