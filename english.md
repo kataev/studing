@@ -24,18 +24,17 @@ Academic Writing, from paragraph to writing
 
 -   Составить словарь (обязательно)
 
+machine - машина
 
-machine
-
-fill the bill удовлетворять требованиям
+fill the bill - удовлетворять требованиям
 
 worthy - "как мы его понимаем"
 
 inspired- вдохновленный
 
-likely вероятно
+likely - вероятно
 
-acording to
+according to - в соответствии с
 
 to reason - понимать
 
@@ -49,7 +48,7 @@ predict - предстазывать
 
 prernatural - суперчеловек
 
-distinguish from
+distinguish from - отличить от
 
 suspect - подозревать
 
@@ -57,18 +56,17 @@ rigit - строгое следование
 
 adherence - следовать
 
-instantaous -
+instantaneous - мгновенный
 
-coaxes
+coaxes - уговаривать
 
-сайнапс
+synapse - синапс
 
 irreplaceble - незменимый
 
 niche - ниша
 
 foment - превносить
-
 
 stand still - остановится
 
@@ -98,7 +96,7 @@ roughly - грубый
 
 amply - подробно
 
-appease  - утолить
+appease - утолить
 
 to negotiate - вести переговоры
 
@@ -106,20 +104,16 @@ sobering - отрезвление
 
 utterly - крайне
 
-Нужно сузить тему об образовании.
+encoun - встречающихся
 
-encount
+leed - 
 
-leed
-
-superior
+superior - превосходный
 
 valuets
 
-instance
+instance - пример
 
-immidiatly
+immidiatly - немедленно
 
-shorchut
-
-
+shortcut - крадчайщий путь
