@@ -107,3 +107,19 @@ sobering - отрезвление
 utterly - крайне
 
 Нужно сузить тему об образовании.
+
+encount
+
+leed
+
+superior
+
+valuets
+
+instance
+
+immidiatly
+
+shorchut
+
+
