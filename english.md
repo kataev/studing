@@ -104,16 +104,28 @@ sobering - отрезвление
 
 utterly - крайне
 
-encoun - встречающихся
+engaged - связывать
+
+encounters - встречающихся
 
 leed - 
 
 superior - превосходный
 
-valuets
+vehicle - 
+
+globule up - переполнять
 
 instance - пример
 
 immidiatly - немедленно
 
 shortcut - крадчайщий путь
+
+out strip
+
+mammals
+
+lattices - решотка
+
+thicket - плотность
