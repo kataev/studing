@@ -108,11 +108,11 @@ engaged - связывать
 
 encounters - встречающихся
 
-leed - 
+leed -
 
 superior - превосходный
 
-vehicle - 
+vehicle -
 
 globule up - переполнять
 
@@ -122,10 +122,14 @@ immidiatly - немедленно
 
 shortcut - крадчайщий путь
 
-out strip
+out strip - 
 
-mammals
+mammals - 
 
 lattices - решотка
 
 thicket - плотность
+
+relentless - 
+
+
