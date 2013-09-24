@@ -1,84 +1,80 @@
 MoNETA
-AI
-To reason
-Relatively
-According to
-Witless
-To distinguish from
-To percieve
-To suspect
-Adherence
-Instantaneous
-Resemble, resemblance
-To coax
-Accurately
-To fill the bill
-To bankroll
-To yield
-Irreplaceable
-To confine
-Niche
-To astound
-To stand still
-To stray out
-Decent
-Vehicle
-Objective
+AI - ИИ
+To reason - понимать
+Relatively - относитлеьно
+According to - в отношении
+Witless - глупый
+To distinguish from - отличатся от
+To perceive - воспринимать
+To suspect - полагать
+Adherence - 
+Instantaneous - мгновернный
+Resemble, resemblance - походить на
+To coax - уговаривать
+Accurately - точно
+To fill the bill - удовлетворять требованиям
+To bankroll - давать деньги
+To yield - выдавать
+Irreplaceable - незаменимый
+To confine - ограничивать
+Niche - ниша
+To astound - поражать
+To stand still - стоять на месте
+To stray out - отклонятся
+Decent - приличный
+Vehicle - транспортное средство
+Objective - цель
 
+To negotiate - отрицать
+Spur-of-the-moment - спонтанно
+Ambiguity - двусмысленно
+Abysmally - плачевно
+To defeat - побеждать, поражать кого либо
+Predecessor - предешственник
+Brute-force strategy - грубой силой
+Draw - рисовать
+To launch - запускать
+Ante - ставка
+Desolate - безжизенный
+Sobering results - отревляющие результат
+Utterly - абсолютно
+Amok - вне себя
+To disengage - развязать
+Simultaneously - одновременно
+To replicate - повсторять
+Outcome - результат
+Conventional - обычный
+To augment - увеличивать
+To enchant - очаровывать
+To attempt - пробовать
+To gobble up - сожрать
+Immediately - немедленно
+Access - доступ
+Sequence - последовательность
 
-To negotiate
-Spur-of-the-moment
-Ambiguity
-Abysmally
-To defeat
-Predecessor
-Brute-force strategy
-Draw
-To launch
-Ante
-Desolate
-Sobering results
-Utterly
-Amok
-To disengage
-Simultaneously
-To replicate
-Outcome
-Conventional
-To augment
-To encount
-To attempt
-To gobble up
-Immediately
-Access
-Sequence
-
-
-
-Stupendous
-Shortcuts
-To evaluate
-Instead of
-Indeed
-Nonvolatile
-Upshot 
-To decay
-Lattice
-Directly
-Magnitude
-Drastically
-Consumption
-Conceit
-To suck up
-To carry out, to perform
-Explicitly
-Throughout
-To acquire
-Sophisticated
-Maze
-Consciousness
-Relentless
-To shrink (shrank, shrunk)
-Unreliable
-To relay on
-
+Stupendous - громадный
+Shortcuts - короткий путь
+To evaluate - выполнять
+Instead of - вместо
+Indeed - действительно
+Nonvolatile - энергонезависимый
+Upshot - результат
+To decay - распадать
+Lattice - решетка
+Directly - непосредственно
+Magnitude - магнитуда
+Drastically - радикально
+Consumption - потребление
+Conceit - самомнение
+To suck up - подлизываться
+To carry out, to perform - предствлять
+Explicitly - явно
+Throughout - везде
+To acquire - приобретать
+Sophisticated - сложный
+Maze - пазл
+Consciousness - сознание
+Relentless - неустанный
+To shrink (shrank, shrunk) - уменьшать
+Unreliable - ненадежный
+To rely on - полагаться
