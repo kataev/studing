@@ -1,80 +1,85 @@
-MoNETA
-AI - ИИ
-To reason - понимать
-Relatively - относитлеьно
-According to - в отношении
+MoNETA – Modular Neural Exploring Traveling Agent – модульное нейронное исследование подвижного вещества
+AI – artificial intelligence - искусственный интеллект
+To reason – рассуждать, размышлять
+Relatively – относительно, сравнительно
+According to – согласно, в соответствии с 
 Witless - глупый
-To distinguish from - отличатся от
-To perceive - воспринимать
-To suspect - полагать
-Adherence - 
-Instantaneous - мгновернный
-Resemble, resemblance - походить на
-To coax - уговаривать
-Accurately - точно
-To fill the bill - удовлетворять требованиям
-To bankroll - давать деньги
-To yield - выдавать
+To distinguish from – выделять из
+To perceive – воспринимать
+To suspect - подозревать
+Adherence – приверженность, соблюдение
+Instantaneous – мгновенный 
+Resemble, resemblance – иметь сходство, сходство
+To coax – получать 
+Accurately – точно, правильно
+To fill the bill – удовлетворять требованиям
+To bankroll - финансировать
+To yield – давать результат 
 Irreplaceable - незаменимый
 To confine - ограничивать
 Niche - ниша
-To astound - поражать
-To stand still - стоять на месте
-To stray out - отклонятся
+To astound – поражать, изумлять
+To stand still – замереть 
+To stray out – отклоняться 
 Decent - приличный
-Vehicle - транспортное средство
+Vehicle – транспортное средство
 Objective - цель
-
-To negotiate - отрицать
-Spur-of-the-moment - спонтанно
-Ambiguity - двусмысленно
+To negotiate – вести переговоры, договариваться
+Spur-of-the-moment – спонтанный момент
+Ambiguity - двусмысленность
 Abysmally - плачевно
-To defeat - побеждать, поражать кого либо
-Predecessor - предешственник
-Brute-force strategy - грубой силой
-Draw - рисовать
-To launch - запускать
-Ante - ставка
-Desolate - безжизенный
-Sobering results - отревляющие результат
+To defeat - побеждать
+Predecessor - предшественник
+Brute-force strategy – метод перебора
+Draw - ничья
+To launch – запускать, начинать
+Ante – ставка, взнос
+Desolate – заброшенный, безлюдный
+Sobering results – отрезвляющие результаты
 Utterly - абсолютно
-Amok - вне себя
-To disengage - развязать
+Amok - ярость
+To disengage – отделять, освобождать
 Simultaneously - одновременно
-To replicate - повсторять
-Outcome - результат
-Conventional - обычный
-To augment - увеличивать
-To enchant - очаровывать
-To attempt - пробовать
-To gobble up - сожрать
+To replicate – копировать, повторять
+Outcome – результат, исход
+Conventional – обычный, традиционный
+To augment – дополнять
+To encounter - сталкиваться
+To attempt – пытаться, пробовать
 Immediately - немедленно
 Access - доступ
 Sequence - последовательность
-
-Stupendous - громадный
-Shortcuts - короткий путь
-To evaluate - выполнять
-Instead of - вместо
-Indeed - действительно
+Stupendous – колоссальный, важный
+Shortcuts – кратчайший путь
+To evaluate - оценивать
+Instead of – вместо, взамен
+Indeed – неужели! Действительно! 
 Nonvolatile - энергонезависимый
 Upshot - результат
-To decay - распадать
-Lattice - решетка
+To decay - угасать
+Lattice – решетка, сетка
 Directly - непосредственно
-Magnitude - магнитуда
-Drastically - радикально
-Consumption - потребление
-Conceit - самомнение
-To suck up - подлизываться
-To carry out, to perform - предствлять
-Explicitly - явно
-Throughout - везде
+Magnitude – величина, размеры
+Drastically – радикально, кардинально
+Consumption – потребление, расход
+To suck up - поглощать
+To carry out, to perform – выполнять, проводить
+Explicitly – ясно, точно
+Throughout - через
 To acquire - приобретать
-Sophisticated - сложный
-Maze - пазл
+Sophisticated – сложный, изощренный
+Maze – лабиринт
 Consciousness - сознание
-Relentless - неустанный
-To shrink (shrank, shrunk) - уменьшать
+Relentless – неутолимый, беспощадный
+To shrink (shrank, shrunk) – сокращать
+
 Unreliable - ненадежный
-To rely on - полагаться
+Rely on – доверять, полагаться на
+To overwhelm – преодолевать
+Density – плотность
+To rival – соперничать, конкурировать
+To preclude – устранять, предотвращать
+To emerge - возникать, появляться
+To cull – выбирать, отбирать (лучшее)
+To cull out – браковать
+To tweak – корректировать, вносить поправки
